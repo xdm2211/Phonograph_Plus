@@ -55,7 +55,7 @@
     <string name="action_scan">Escanear</string>
     <string name="action_clean">Limpar</string>
     <string name="action_cancel_current_timer">Cancelar cronômetro atual</string>
-    <string name="action_set_as_start_directory">Definir como tela inicial</string>
+    <string name="action_set_as_start_directory">Definir como diretório inicial</string>
     <string name="action_add_to_black_list">Adicionar à lista negra</string>
     <string name="action_item_layout">Disposição de Itens</string>
     <string name="action_new_playlist">Nova lista de reprodução…</string>
@@ -235,7 +235,7 @@
     <string name="tips_x_selected">%1$d selecionado</string>
     <string name="tips_choose_at_least_one">Por favor, escolha ao menos um</string>
     <string name="tips_select_at_least_one_category">Você deve selecionar ao menos uma categoria.</string>
-    <string name="tips_minutes">%1$d minutos</string>
+    <string name="tips_minutes">%1$d min</string>
     <string name="tips_add_to_blacklist">Deseja adicionar isso à lista negra?</string>
     <string name="tips_grant_permission_description">Algumas permissões necessárias são requeridas para garantir o funcionamento correto.</string>
     <string name="tips_open_folder_with_saf">Agora, selecione a pasta que contém os arquivos com os quais você deseja trabalhar</string>
@@ -289,7 +289,7 @@
     <string name="err_playlist_exists">A lista de reprodução %1$s já existe.</string>
     <string name="err_unplayable_file">Não foi possível reproduzir essa música.</string>
     <string name="err_no_equalizer">Nenhum equalizador encontrado.</string>
-    <string name="err_no_audio_ID">Sem identificação de áudio, reproduza algo e tente novamente.</string>
+    <string name="err_no_audio_ID">Toque uma música primeiro e depois tente novamente.</string>
     <string name="err_permissions_denied">Permissões negadas.</string>
     <string name="err_permission_external_storage_denied">Permissão para acessar armazenamento externo negado.</string>
     <string name="err_could_not_scan_files">Não foi possível escanear %d arquivos.</string>
@@ -380,7 +380,7 @@
     <string name="pref_title_gapless_playback">Reprodução contínua</string>
     <string name="pref_title_general_theme">Tema geral</string>
     <string name="pref_title_image_cache">Cache de Imagens</string>
-    <string name="pref_title_last_added_interval">Último intervalo adicionado da lista de reprodução</string>
+    <string name="pref_title_last_added_interval">Último intervalo de lista de reprodução adicionado</string>
     <string name="pref_title_load_lyrics">Carregar Letras</string>
     <string name="pref_title_navigation_bar">Barra de navegação colorida</string>
     <string name="pref_title_notification_actions">Ações de Notificação de Reprodução</string>
@@ -398,7 +398,7 @@
     <string name="pref_title_send_lyrics">Transmitir letras sincronizadas</string>
     <string name="pref_title_start_directory">Diretório Inicial</string>
     <string name="pref_title_synchronized_lyrics_show">Exibir letras sincronizadas</string>
-    <string name="pref_title_use_legacy_favorite_playlist_impl">Use o mecanismo de playlist favorito legado</string>
+    <string name="pref_title_use_legacy_favorite_playlist_impl">Utilizar o mecanismo antigo de favoritos de listas de reprodução</string>
     <string name="pref_title_use_legacy_status_bar_lyrics_api">Usar a API antiga de letras na Barra de Status</string>
     <string name="perf_title_fixed_tab_layout">Fixar todas as abas</string>
     <string name="pref_title_lyrics_size_cover">Tamanho da fonte da letra (Reprodutor Principal)</string>
