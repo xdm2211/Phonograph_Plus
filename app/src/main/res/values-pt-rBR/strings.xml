@@ -25,10 +25,10 @@
     <string name="action_pin">Fixar</string>
     <string name="action_unpin">Desafixar</string>
     <string name="action_play_all">Reproduzir todas</string>
-    <string name="action_shuffle_all">Misturar todas</string>
-    <string name="action_shuffle_album">Misturar álbum</string>
-    <string name="action_shuffle_artist">Misturar artista</string>
-    <string name="action_shuffle_playlist">Misturar lista de reprodução</string>
+    <string name="action_shuffle_all">Embaralhar tudo</string>
+    <string name="action_shuffle_album">Embaralhar álbum</string>
+    <string name="action_shuffle_artist">Embaralhar artista</string>
+    <string name="action_shuffle_playlist">Embaralhar lista de reprodução</string>
     <string name="action_clear_playing_queue">Limpar fila de reprodução</string>
     <string name="action_save_playing_queue">Salvar fila de reprodução</string>
     <string name="action_shuffle_mode">Modo Aleatório</string>
@@ -59,7 +59,7 @@
     <string name="action_add_to_black_list">Adicionar à lista negra</string>
     <string name="action_item_layout">Disposição de Itens</string>
     <string name="action_new_playlist">Nova lista de reprodução…</string>
-    <string name="action_change_now_playing_screen">Mudar a tela de reprodução agora</string>
+    <string name="action_change_now_playing_screen">Alterar tela de reprodução</string>
     <string name="action_go_to_artist">Ir para o artista</string>
     <string name="action_go_to_album">Ir para o álbum</string>
     <string name="action_save_playlist">Salvar como arquivo</string>
@@ -84,7 +84,7 @@
     <string name="action_grant_storage_permission">Conceder Permissão de Acesso ao Armazenamento Externo</string>
     <string name="action_refresh_database">Atualizar Bancos de Dados</string>
     <string name="action_rebuild_database">Reconstruir Banco de Dados</string>
-    <string name="action_delete_database">Apagar Banco de Dados</string>
+    <string name="action_delete_database">Excluir Banco de Dados</string>
     <string name="action_move_to_top">Mover para o início</string>
     <string name="action_move_to_bottom">Mover para o final</string>
     <string name="action_move_up">Mover para cima</string>
@@ -134,17 +134,17 @@
     <string name="label_disk_number_total">Número Total de Discos</string>
     <string name="label_rating">Classificação</string>
     <string name="label_tag_format">Formato de etiqueta</string>
-    <string name="label_raw_tags">Etiquetas sem formatação</string>
+    <string name="label_raw_tags">Etiquetas sem Formatação</string>
     <string name="label_lyrics">Letra</string>
     <string name="label_embedded_lyrics">letras incorporadas</string>
     <string name="label_external_lyrics">letras externas</string>
     <string name="label_loaded">carregado</string>
-    <string name="label_databases">Bancos de dados</string>
-    <string name="label_path_selector">Seletor de arquivos</string>
+    <string name="label_databases">Bancos de Dados</string>
+    <string name="label_path_selector">Seletor de Arquivos</string>
     <string name="label_single_item">Item Único</string>
     <string name="label_multiple_items">Múltiplos Itens</string>
     <string name="label_app_language">Idioma do Aplicativo</string>
-    <string name="label_playing_queue_history">Reproduzindo o Histórico de Fila</string>
+    <string name="label_playing_queue_history">Histórico da Fila de Reprodução</string>
     <string name="label_preferences">Preferências</string>
     <string name="label_details">Detalhes</string>
     <string name="label_title">Título</string>
@@ -199,7 +199,7 @@
     <string name="label_media">Mídia</string>
     <string name="label_count">Contagem</string>
     <string name="label_format">Formato</string>
-    <string name="label_status">Situação</string>
+    <string name="label_status">Estado</string>
     <string name="label_barcode">Código de Barras</string>
     <string name="label_record_label">Gravadora</string>
     <string name="playlist_favorites">Favoritos</string>
@@ -225,7 +225,7 @@
     <string name="option_lyrics_following">Letras a Seguir</string>
     <string name="option_use_legacy_list_Files">Usar a maneira antiga de ler arquivos</string>
     <string name="option_load_images_for_files">Carregar imagens para arquivos</string>
-    <string name="option_delete_with_lyrics">Apagar com letras</string>
+    <string name="option_delete_with_lyrics">Excluir com letras</string>
     <string name="tips_not_available_now">Não disponível no momento</string>
     <string name="tips_long_press_to_proceed">Por favor, aperte e segure para prosseguir!</string>
     <string name="tips_service_disconnected">[Serviço desconectado!]</string>
@@ -242,7 +242,7 @@
     <string name="tips_open_file_with_saf">Agora, selecione o arquivo com o qual deseja trabalhar</string>
     <string name="tips_ringtone_settings">Permitir que o Phonograph modifique as configurações de áudio</string>
     <string name="tips_refresh_database">Escanear músicas e indexá-las</string>
-    <string name="tips_delete_database">Apaga todo o banco de dados, incluindo todas as listas de reprodução do banco de dados e músicas indexadas!</string>
+    <string name="tips_delete_database">Exclui todo o banco de dados, incluindo todas as listas de reprodução do banco de dados e músicas indexadas!</string>
     <string name="tips_reached_to_root">Você chegou à pasta raiz deste volume de armazenamento</string>
     <string name="tips_preview_cutoff_time_interval"> Valor do tempo limite será: \n %1$s \n(%2$s)</string>
     <string name="tips_preview_next_updates_check">A próxima verificação de atualizações será após: \n %1$s \n(%2$s)</string>
@@ -316,7 +316,7 @@
     <string name="app_widget_classic_name">Phonograph - Clássico</string>
     <string name="app_widget_small_name">Phonograph - Pequeno</string>
     <string name="app_widget_card_name">Phonograph - Cartão</string>
-    <string name="app_shortcut_shuffle_all_short">Misturar</string>
+    <string name="app_shortcut_shuffle_all_short">Aleatório</string>
     <string name="app_shortcut_top_tracks_short">Principais músicas</string>
     <string name="app_shortcut_last_added_short">Adicionada recentemente</string>
     <string name="about_special_thanks_to">Um agradecimento especial para</string>
@@ -367,14 +367,14 @@
     <string name="pref_title_audio_ducking">Reduzir o volume na perda de foco</string>
     <string name="pref_title_auto_check_for_updates">Verificar atualizações automaticamente</string>
     <string name="pref_title_auto_skip_unplayable_files">Ignorar automaticamente arquivos não reproduzíveis</string>
-    <string name="pref_title_broadcast_current_player_state">Transmitir publicamente o estado atual do reprodutor.</string>
+    <string name="pref_title_broadcast_current_player_state">Transmitir publicamente o estado atual do reprodutor</string>
     <string name="pref_title_check_for_updates_interval">Intervalo para verificar atualizações</string>
     <string name="pref_title_classic_notification">Design de notificação clássico</string>
     <string name="pref_title_click_behavior">Comportamento personalizado ao clicar em uma música</string>
     <string name="pref_title_colored_notification">Notificação colorida</string>
     <string name="pref_title_disable_real_time_search">Desativar busca em tempo real</string>
     <string name="pref_title_display_lyrics_time_axis">Exibir eixo de tempo das letras</string>
-    <string name="pref_title_display_modes_with_queue">Exibir botões Repetir e Misturar na barra de ferramentas da fila de reprodução</string>
+    <string name="pref_title_display_modes_with_queue">Exibir botões de Repetir e Aleatório na barra de ferramentas da fila de reprodução</string>
     <string name="pref_title_enable_monet">Ativar Monet</string>
     <string name="pref_title_external_play_request">Ação padrão ao reproduzir a partir do externo</string>
     <string name="pref_title_gapless_playback">Reprodução contínua</string>
@@ -392,14 +392,14 @@
     <string name="pref_title_playlist_files_operation_behaviour">Comportamento Operacional para arquivos de lista de reprodução</string>
     <string name="pref_title_preload_images">Pré-carregar Imagens</string>
     <string name="pref_title_remember_last_tab">Lembrar última aba</string>
-    <string name="pref_title_remember_shuffle">Memorizar aleatorização</string>
+    <string name="pref_title_remember_shuffle">Lembrar modo aleatório</string>
     <string name="pref_title_resume_after_audio_focus_gain">Retomar a reprodução automaticamente após interrupções</string>
     <string name="pref_title_seek_jump_interval">Intervalo de Busca para Avançar / Retroceder</string>
     <string name="pref_title_send_lyrics">Transmitir letras sincronizadas</string>
     <string name="pref_title_start_directory">Diretório Inicial</string>
     <string name="pref_title_synchronized_lyrics_show">Exibir letras sincronizadas</string>
     <string name="pref_title_use_legacy_favorite_playlist_impl">Utilizar o mecanismo antigo de favoritos de listas de reprodução</string>
-    <string name="pref_title_use_legacy_status_bar_lyrics_api">Usar a API antiga de letras na Barra de Status</string>
+    <string name="pref_title_use_legacy_status_bar_lyrics_api">Usar a API StatusBar Lyrics antiga</string>
     <string name="perf_title_fixed_tab_layout">Fixar todas as abas</string>
     <string name="pref_title_lyrics_size_cover">Tamanho da fonte da letra (Reprodutor Principal)</string>
     <string name="pref_title_lyrics_align_cover">Alinhamento do texto da letra (Reprodutor Principal)</string>
@@ -407,7 +407,7 @@
     <string name="pref_title_music_tags_artists_separators">Etiquetas da Música - Separadores de Artistas</string>
     <string name="pref_title_music_tags_featuring_artists_abbr">Etiquetas da Música - Separadores/Abreviações de Artistas Participantes</string>
     <string name="pref_title_music_tags_genres_separators">Etiquetas da Música - Separadores de Gêneros</string>
-    <string name="pref_summary_always_play">Ignorar quaisquer interrupções e continuar a tocar, não importa o que mais esteja sendo tocado. (Isso pode causar saída silenciosa em algumas circunstâncias.)</string>
+    <string name="pref_summary_always_play">Ignorar quaisquer interrupções e continuar reproduzindo, independentemente do que mais estiver sendo reproduzido. (Isso pode causar silêncio na saída de áudio em algumas circunstâncias.)</string>
     <string name="pref_summary_always_use_media_session_to_display_cover">Sempre usar a Sessão de Mídia para fornecer imagens de capa para o sistema de notificações, etc.</string>
     <string name="pref_summary_audio_ducking">Notificações, navegação, etc.</string>
     <string name="pref_summary_auto_check_for_updates">Enviar uma notificação quando uma versão mais recente estiver disponível.</string>
@@ -436,11 +436,11 @@
     <string name="pref_summary_playlist_files_operation_behaviour">Comportamentos sobre como operar arquivos de lista de reprodução ao criar, modificar etc. listas de reprodução de arquivos.</string>
     <string name="pref_summary_preload_images">Pré-carregar imagens para acelerar o carregamento e evitar atrasos. Isso pode causar mais consumo de memória.</string>
     <string name="pref_summary_remember_last_tab">Ir para a última aba aberta ao iniciar</string>
-    <string name="pref_summary_resume_after_audio_focus_gain">Sempre retomar a reprodução após interrupções (como telefonemas ou alarme).</string>
-    <string name="pref_summary_send_lyrics">Transmitir letras sincronizadas da música para o módulo Xposed \"StatusBar Lyrics\".</string>
-    <string name="pref_summary_seek_jump_interval">Define o número de segundos para saltar para frente ou para trás do reprodutor ou da notificação.</string>
+    <string name="pref_summary_resume_after_audio_focus_gain">Sempre retomar a reprodução após interrupções (como chamadas ou alarme).</string>
+    <string name="pref_summary_send_lyrics">Transmitir letras sincronizadas para o módulo Xposed \"StatusBar Lyrics\"</string>
+    <string name="pref_summary_seek_jump_interval">Define o número de segundos para avançar ou retroceder a partir do reprodutor ou da notificação.</string>
     <string name="pref_summary_start_directory">O diretório padrão ao navegar nos arquivos.</string>
-    <string name="pref_summary_synchronized_lyrics_show">Atualmente, apenas letras sincronizadas no formato LRC são suportadas, seja incorporadas ou como um arquivo separado.</string>
+    <string name="pref_summary_synchronized_lyrics_show">Atualmente, apenas letras sincronizadas no formato LRC são suportadas, sejam incorporadas ou como um arquivo separado.</string>
     <string name="pref_summary_use_legacy_favorite_playlist_impl">Se você ativar esta opção, o aplicativo salvará suas músicas favoritas em uma lista de reprodução m3u no armazenamento, em vez de salvá-las no banco de dados interno do aplicativo. (Você pode exportar a lista manualmente.)</string>
     <string name="pref_summary_use_legacy_status_bar_lyrics_api">Se estiver desativado, a API LyricGetter será usada ao invés da StatusBarLyricAPI. Isso é usado pelo Módulo do Xposed StatusBar Lyrics versão 6.x e posterior; Ative se você estiver usando versões mais antigas do StatusBar Lyrics.</string>
     <string name="pref_summary_lyrics_size_cover">O tamanho da fonte da letra da música sobre a imagem da capa no reprodutor principal, caso a letra esteja sincronizada.</string>
@@ -498,9 +498,9 @@
     <string name="sort_order_composer">Compositor</string>
     <string name="sort_order_year">Ano</string>
     <string name="sort_order_date_added">Data de adição</string>
-    <string name="sort_order_song">Canção</string>
+    <string name="sort_order_song">Música</string>
     <string name="sort_order_duration">Duração</string>
-    <string name="sort_order_date_modified">Data de alteração</string>
+    <string name="sort_order_date_modified">Data de Alteração</string>
     <string name="sort_order_song_count">Contagem de Músicas</string>
     <string name="sort_order_album_count">Contagem de Álbuns</string>
     <string name="sort_order_size">Tamanho do Arquivo</string>
@@ -513,12 +513,12 @@
     <string name="mode_song_play_now">Reproduzir a música agora (no topo)</string>
     <string name="mode_song_append_queue">Adicionar a música à fila de reprodução</string>
     <string name="mode_song_single_play">Repetir somente essa música</string>
-    <string name="mode_queue_play_next">Reproduzir o próximo da fila</string>
+    <string name="mode_queue_play_next">Reproduzir a próxima da fila</string>
     <string name="mode_queue_play_now">Reproduzir a fila agora (no topo)</string>
     <string name="mode_queue_append_queue">Adicionar a fila à que está sendo reproduzida</string>
     <string name="mode_queue_switch_to_beginning">Substituir a atual e reproduzir a fila desde o começo</string>
     <string name="mode_queue_switch_to_position">Substituir a atual e reproduzir a fila do local selecionado</string>
-    <string name="mode_queue_shuffle">Substituir a atual e reproduzir a fila aleatoriamente</string>
+    <string name="mode_queue_shuffle">Substituir a fila atual e reproduzir em modo aleatório</string>
     <string name="mode_flag_goto_position_first">Se for igual à fila atual, mover para a posição da música selecionada</string>
     <string name="mode_flag_play_queue_if_empty">Se a fila atual estiver vazia, reproduza a fila diretamente</string>
     <string name="image_source_external_file">Arquivo Externo</string>
@@ -574,7 +574,7 @@
         <item quantity="other">%1$d Listas de Reprodução</item>
     </plurals>
     <plurals name="item_playlists_generated">
-        <item quantity="one">%1$d Listas de Reprodução Geradas</item>
+        <item quantity="one">%1$d Lista de Reprodução Gerada</item>
         <item quantity="other">%1$d Listas de Reprodução Geradas</item>
     </plurals>
     <plurals name="item_genres">
@@ -587,11 +587,11 @@
     </plurals>
     <plurals name="msg_header_remove_items">
         <!-- %1$s: where -->
-        <item quantity="one">%2$d item seria removido de %1$s</item>
+        <item quantity="one">%2$d item seria removido de %1$s:</item>
         <item quantity="other">%2$d itens seriam removidos de %1$s:</item>
     </plurals>
     <plurals name="msg_deletion_result">
         <item quantity="one">%1$d / %2$d item foi excluído com sucesso.</item>
-        <item quantity="other">Os itens %1$d / %2$d foram excluídos com sucesso.</item>
+        <item quantity="other">%1$d / %2$d itens foram excluídos com sucesso.</item>
     </plurals>
 </resources>
