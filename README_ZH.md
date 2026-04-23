@@ -8,6 +8,11 @@
 [简体中文](./README_ZH.md)
 <br/>
 
+> [!CAUTION]
+> ~~Phonograph Plus 永久停更!~~
+>
+> 🤪 愚人节快乐 🎈
+> ~愚人月/愚人假快乐~，仓库继续保持存档至月末🥲
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/chr56/Phonograph_Plus/blob/release/LICENSE.txt)
 [![DownloadsStatistics](https://img.shields.io/github/downloads/chr56/Phonograph_Plus/total)](https://github.com/chr56/Phonograph_Plus/releases)

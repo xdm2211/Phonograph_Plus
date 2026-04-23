@@ -8,6 +8,37 @@
 [简体中文](./README_ZH.md)
 <br/>
 
+> [!CAUTION]
+> ~~Phonograph Plus is discontinued!~~
+>
+> 🤪 Yes, this is an April Fool's joke! 🎈
+> 
+> ~Happy April Fool Month/Break!~
+> 
+> _April Fool Mouth_ effect continues! 
+> The repo would be still in _archived_ for this month. 🥲
+
+<details>
+
+<summary>Original April Fool Notice</summary>
+
+<b><del>Notice to all users</del></b>
+
+~Google’s upcoming Android policy, _Android developer verification_, will require all developers worldwide to register and be verified by Google before their apps can be installed on certified Android devices — even outside Google Play. Since 2027, _sideloading_ would be extremely difficult for most users. You can get more details from https://keepandroidopen.org/ .~
+~**Android is no longer a fully open platform,** Google is killing Android!~
+~Phonograph Plus was built on the idea of open distribution. Phonograph Plus refuses such mandatory developer registration, identity verification, and centralized approval.~
+
+~Because of this, **the project cannot continue and will be permanently archived.** Discontinuing Phonograph Plus is both a practical necessity and our response to this policy.~
+~Maintenance challenges, an aging codebase, accumulated bugs, and the growing mental burden of sustaining the project also contributed — but they are secondary to the platform changes that fundamentally conflict with our values.~
+
+~Thank you for your support over the past four years.~
+
+~**Farewell.**~
+
+~*April 1*, 2026~
+
+</details>
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/chr56/Phonograph_Plus/blob/release/LICENSE.txt)
 [![DownloadsStatistics](https://img.shields.io/github/downloads/chr56/Phonograph_Plus/total)](https://github.com/chr56/Phonograph_Plus/releases)
 [![Crowdin](https://badges.crowdin.net/phonograph-plus/localized.svg)](https://crowdin.com/project/phonograph-plus)
