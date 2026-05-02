@@ -15,7 +15,7 @@ import player.phonograph.model.Song
 import player.phonograph.model.lyrics.LrcLyrics
 import player.phonograph.model.service.*
 import player.phonograph.repo.browser.MediaBrowserDelegate
-import player.phonograph.repo.database.store.HistoryStore
+import player.phonograph.repo.database.domain.DynamicTracks
 import player.phonograph.repo.loader.FavoriteSongs
 import player.phonograph.service.notification.CoverLoader
 import player.phonograph.service.notification.PlayingNotificationManager
@@ -319,10 +319,10 @@ class MusicService : MediaBrowserServiceCompat(),
                     controller.saveCurrentMills()
 
                     // add to history
-                    get<HistoryStore>().addSongId(currentSong.id)
+                    DynamicTracks.RecentTracks.add(currentSong.id)
 
                     // check for bumping
-                    songPlayCountHelper.checkForBumpingPlayCount(get()) // old
+                    songPlayCountHelper.checkForBumpingPlayCount() // old
                     songPlayCountHelper.songMonitored = queueManager.currentSong // new
                 }
             }
